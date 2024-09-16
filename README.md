@@ -4,4 +4,4 @@ INSERT INTO test VALUES (1, 'Mary',22)
 SELECT * FROM test;
 *Stellios
 
-The code is 'SELECR *'
+The code is 'SELECT *'
